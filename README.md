@@ -36,7 +36,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pratikdeshmukh21/pratikdeshmukh21/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikdeshmukh21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikdeshmukh21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -47,7 +50,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/ea/6e/60/ea6e603c4204ecb4664901d7f9edf452.gif"  />
+  <img height="250" src="https://i.pinimg.com/originals/ea/6e/60/ea6e603c4204ecb4664901d7f9edf452.gif"  />
 </div>
 
 ###
