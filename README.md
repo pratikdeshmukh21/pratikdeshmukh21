@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: My first "Hello, World!" program.<br>📚 I'm currently learning: 3D game development in Unity and reinforcement learning for AI projects.<br>🎯 Goals: To excel as a software developer, enhance my machine learning skills, and contribute to impactful AI solutions.<br>🎲 Fun fact: I enjoy solving puzzles and debugging feels like solving a mystery!<br><br>Let me know if you'd like to add or tweak anything! 😊</p>
+<p align="left">✨ Creating bugs since: My first "Hello, World!" program.<br>📚 I'm currently learning: 3D game development in Unity and reinforcement learning for AI projects.<br>🎯 Goals: To excel as a software developer, enhance my machine learning skills, and contribute to impactful AI solutions.<br>🎲 Fun fact: I enjoy solving puzzles and debugging feels like solving a mystery!<br><br></p>
 
 ###
 
