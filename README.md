@@ -86,9 +86,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikdeshmukh21&show_icons=true&theme=dracula&cache_seconds=1800&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdeshmukh21&layout=compact&theme=dracula&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikdeshmukh21&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratikdeshmukh21&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratikdeshmukh21&theme=github_dark" />
+</p>
+
+
 
 ---
 
@@ -101,11 +107,12 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/pratikdeshmukh21/count.svg"/>
+  <img height="250" src="https://i.pinimg.com/originals/ea/6e/60/ea6e603c4204ecb4664901d7f9edf452.gif"/>
 </p>
 
+---
 <p align="center">
-  <img height="250" src="https://i.pinimg.com/originals/ea/6e/60/ea6e603c4204ecb4664901d7f9edf452.gif"/>
+  <img src="https://komarev.com/ghpvc/?username=pratikdeshmukh21&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
