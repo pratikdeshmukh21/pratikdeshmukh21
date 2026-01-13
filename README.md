@@ -18,6 +18,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratikdeshmukh21/pratikdeshmukh21/output/snake-dark.svg" />
+</p>
+
+---
+
 ## 🧠 Current Focus
 
 - 🔹 End-to-End Machine Learning Projects  
@@ -78,8 +86,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikdeshmukh21&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdeshmukh21&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikdeshmukh21&show_icons=true&theme=dracula&cache_seconds=1800&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikdeshmukh21&layout=compact&theme=dracula&cache_seconds=1800" />
 </p>
 
 ---
